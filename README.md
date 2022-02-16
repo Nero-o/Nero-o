@@ -1,7 +1,7 @@
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is Omar, i am a computer science student at the State University of Paraná!
 
-<img src = "https://c.tenor.com/oS5SFKhlWYwAAAAd/angry-cat.gif" width = "200" height = "200" />
+<img src = "https://c.tenor.com/oS5SFKhlWYwAAAAd/angry-cat.gif" width = "398" height = "498" />
 
 
 ### Ferramentas e Tecnologias
