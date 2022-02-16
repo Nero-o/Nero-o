@@ -1,5 +1,6 @@
 ## 👋 Hello! Welcome to my Github profile.
-### My name is Omar Mahmoud and my nickname is "Nero"!
+### My name is Omar Mahmoud i am a computer science student at the State University of Paraná!
+
 
 ### Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
