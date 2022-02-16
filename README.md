@@ -1,5 +1,5 @@
 ## 👋 Hello! Welcome to my Github profile.
-### My name is Omar Mahmoud i am a computer science student at the State University of Paraná!
+### My name is Omar, i am a computer science student at the State University of Paraná!
 
 
 ### Ferramentas e Tecnologias
