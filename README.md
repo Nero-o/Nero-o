@@ -7,6 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+    <a href = "mailto:omarmahmoud3611@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <a href= "https://www.linkedin.com/in/omar-mahmoud-1542761b1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
