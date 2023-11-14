@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nero-o&label=Profile%20views&color=0e75b6&style=flat" alt="nero-o" /> </p>
 
-- 🔭 I’m currently working on **@jornadatecnlogia**
+- 🔭 I’m currently working on **@AecoCapital**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
