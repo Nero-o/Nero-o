@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Welcome to my github profile!</h1>
-<h3 align="center">My name is Omar, I'm a software engineering student.</h3>
+<h3 align="center">My name is Omar, I'm a software engineering developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nero-o&label=Profile%20views&color=0e75b6&style=flat" alt="nero-o" /> </p>
 
